@@ -5,6 +5,7 @@ description: This collection of problem sets given in past years is affectionate
   a great deal of help in this class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-03-genetics-fall-2004/e66b323c05198497e827163d9bb0844b_ps_1999_extra.pdf
 file_type: application/pdf
+parent_uid: d36bbc09-9d2a-744e-a855-91169f13cc83
 resourcetype: Document
 title: ps_1999_extra.pdf
 uid: e66b323c-0519-8497-e827-163d9bb0844b

@@ -5,6 +5,7 @@ description: This collection of exams given in past years is affectionately know
   a great deal of help in this class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-03-genetics-fall-2004/f3b15aceea67ee086f587973202061f9_exams_1999.pdf
 file_type: application/pdf
+parent_uid: d36bbc09-9d2a-744e-a855-91169f13cc83
 resourcetype: Document
 title: exams_1999.pdf
 uid: f3b15ace-ea67-ee08-6f58-7973202061f9
